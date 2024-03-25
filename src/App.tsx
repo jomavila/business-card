@@ -3,7 +3,7 @@ import profileImage from "./assets/profile.jpg";
 const App = () => {
   return (
     <div className="App p-5">
-      <div className="w-full md:w-[400px] card shadow-2xl mx-auto rounded-lg py-8">
+      <div className="w-full card shadow-2xl mx-auto rounded-lg py-8">
         <div className="w-[250px] bg-[#253964] rounded-full p-2 mx-auto">
           <img
             src={profileImage}

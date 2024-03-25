@@ -17,7 +17,9 @@ body {
   background-image: url('assets/background.png'); 
   background-repeat: no-repeat;
   background-size: cover;
+  width: 400px;
 }
+
 
 h1 {
   font-size: 40px;
